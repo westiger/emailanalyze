@@ -1,0 +1,102 @@
+body{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    font-family: "黑体";
+    font-size: 16px;
+    margin:0px;
+    background-image: url(../image/bg.jpg);
+    } 
+#title{
+    position: absolute;
+    width: 75%;
+    height:15%;
+    top:0%;
+    left:0%;
+    opacity: 0.5;
+    border: 2px solid #44ACF4;
+}
+#netbutton1{
+    position: absolute;
+    margin-left:5%;
+    margin-top: 5%;
+}
+#netbutton2{
+    position: absolute;
+    margin-left:5%;
+    margin-top: 10%;
+}
+#netbutton3{
+    position: absolute;
+    margin-left:5%;
+    margin-top: 15%;
+}
+#netbutton4{
+    position: absolute;
+    margin-left:5%;
+    margin-top: 20%;
+}
+.button_net{
+    position: absolute;
+    opacity: 1;
+    height: 7%;
+    width: 20%;
+    border: 1px solid #44ACF4;
+    border-radius:10px;
+    text-align:center;
+    line-height: 15%;
+}
+#echartnet{
+	position: absolute;
+    width: 70%;
+    height:85%;
+    top:7%;
+    left:28%;
+    opacity: 0.5;
+    border: 2px solid #44ACF4;
+}
+#wordcloud{
+    position: absolute;
+    width: 23%;
+    height:33%;
+    top:57%;
+    left:5%;
+    opacity: 0.5;
+    border: 2px solid #44ACF4;
+}
+#netdiv{
+    position: absolute;
+    width: 75%;
+    height:70%;
+    top:15%;
+    left:0%;
+    opacity: 0.5;
+    border: 2px solid #44ACF4;
+}
+#timeline{
+    position: absolute;
+    width: 75%;
+    height:15%;
+    top:85%;
+    left:0%;
+    opacity: 0.5;
+    border: 2px solid #44ACF4;
+}
+#searchdiv{
+    position: absolute;
+    width: 25%;
+    height:20%;
+    top:10%;
+    left:75%;
+    opacity: 0.5;
+    border: 2px solid #44ACF4;
+}
+#pagediv{
+    position: absolute;
+    width: 25%;
+    height:70%;
+    top:30%;
+    left:75%;
+    opacity: 0.5;
+    border: 2px solid #44ACF4;
+}
